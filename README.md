@@ -23,4 +23,18 @@ Both of these images show options for vacation destinations with a minimum tempe
 
 
 ## Deliverable 3: Create a Travel Itinerary Map
-In this deliverable, we use Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. We then created a map with a pop-up markers for each chosen city on the itinerary.
+In this deliverable, we use Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. The four chosen cities for this assignment were Toledo, Periam, Lunca Ilvei, and Khomutovka. We then created a map with a pop-up markers for each chosen city on the itinerary.
+
+### Succesful Travel Map, Map with Markers, and DF
+
+Image of the DataFrame
+<img width="664" alt="Vacation_Itinerary_DF" src="https://user-images.githubusercontent.com/103979087/181351364-2e86d3a6-e844-42f7-a86d-cc0551735a24.png">
+
+Image of the Travel Map
+<img width="1013" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/103979087/181351454-f64c48f1-e70e-4a4a-9a66-0dcb13aca13e.png">
+
+Image of the Map with Markers
+<img width="1275" alt="WeatherPy_travel_map_markers png" src="https://user-images.githubusercontent.com/103979087/181351498-6fab0109-f7e1-4304-ac18-35e16fa49890.png">
+
+
+
